@@ -13,6 +13,7 @@ Blablablab Bla **Bla** et evidement *bla*.
 
 ``sudo apt install``
 
+Consultez le site du `Grand Sphinx <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`
 
 .. toctree::
    :maxdepth: 2
