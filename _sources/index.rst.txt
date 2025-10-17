@@ -3,12 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-AbTs_indus_tutorial documentation
+Site Github Info Indus de Qualité
 =================================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+Sous titre également qualitatif 
+---------------------------------
+
+Blablablab Bla **Bla** et evidement *bla*. 
+
+``sudo apt install``
 
 
 .. toctree::
